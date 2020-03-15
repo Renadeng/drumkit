@@ -1,3 +1,8 @@
+body {
+  background-image: url("images/drums.jpg");
+  text-align: center;
+}
+
 .keys {
   margin: 20%;
 }
