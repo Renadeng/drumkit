@@ -1,0 +1,17 @@
+.keys {
+  margin: 20%;
+}
+
+.key {
+  padding: 25px;
+  margin: 10px;
+  font-size: 2em;
+  border-radius: 5px;
+}
+
+.keyPressed {
+  opacity: 1;
+  border-color: blue;
+  border-width: 2px;
+  transform: scale(1.2, 1.2);
+}
